@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-autoupdate",
+  "version": "1.0.0",
+  "description": "> Cordova plugin for automatically updating app assets (JS, CSS, etc.).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TapmeMedia/cordova-plugin-autoupdate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TapmeMedia/cordova-plugin-autoupdate/issues"
+  },
+  "homepage": "https://github.com/TapmeMedia/cordova-plugin-autoupdate#readme"
+}
